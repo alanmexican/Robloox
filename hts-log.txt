@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 18 Dec 2020 19:15:45 at https://www.roblox.com/users/494833172/profile +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +www-robIox.com/users/494833172/profile
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.roblox.com/users/494833172/profile -O1 "C:\My Web Sites\Prueba2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +www-robIox.com/users/494833172/profile )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:16:17	Error: 	"Not Found" (404) at link https://www.roblox.com/users/494833172/GET (from https://www.roblox.com/users/494833172/profile)
+19:16:17	Error: 	"Not Found" (404) at link https://www.roblox.com/users/494833172/POST (from https://www.roblox.com/users/494833172/profile)
+19:16:19	Error: 	"Target and EventType parameters are required" (400) at link ecsv2.roblox.com/www/e.png (from https://www.roblox.com/users/494833172/profile)
+19:16:29	Error: 	"Forbidden" (403) at link https://css.rbxcdn.com/images/Shared/facebook.svg (from https://css.rbxcdn.com/e0bcc553b7b9a1dd061c6ade9b1da1fcd7a10d3c86940c321b8823d97689038a.css)
+19:16:29	Error: 	"Not Found" (404) at link https://www.roblox.com/users/494833172/inventory/GET (from https://www.roblox.com/users/494833172/inventory/)
+19:16:29	Error: 	"Not Found" (404) at link https://www.roblox.com/users/494833172/inventory/POST (from https://www.roblox.com/users/494833172/inventory/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 44 seconds : 127 links scanned, 119 files written (5271474 bytes overall) [1670054 bytes received at 37955 bytes/sec], 5165474 bytes transferred using HTTP compression in 101 files, ratio 23%, 3.1 requests per connection
+(6 errors, 0 warnings, 0 messages)
